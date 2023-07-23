@@ -13,6 +13,8 @@
 *.vsidx
 *.suo
 *.cashe
+*.sqlite
+*.wsuo
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
